@@ -34,8 +34,6 @@ Este projeto foi feito em Python com o objetivo de simular a análise de transa�
 ## ▶️ Como executar o projeto
 
 1. No terminal, vá até a pasta do projeto:
-
-```bash
 cd ~/Documents/analise-transacoes
 2. Crie e ative o ambiente virtual:
 python3 -m venv venv
