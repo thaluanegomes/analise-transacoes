@@ -40,7 +40,7 @@ python3 -m venv venv
 source venv/bin/activate  
 3. Instale as dependências:
 pip install pandas
-4. Rode o Projeto 
+4. Rode o Projeto: 
 python3 src/analise.py
 5. O relatório será salvo automaticamente em:
 /output/relatorio_fraudes.csv
