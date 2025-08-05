@@ -1,0 +1,12 @@
+d,cliente_id,valor,tipo_transacao,data,localizacao
+1,101,250.00,débito,2025-08-01,São Paulo
+2,101,5000.00,transferência,2025-08-01,Manaus
+3,101,20.00,débito,2025-08-01,São Paulo
+4,102,9500.00,transferência,2025-08-01,Curitiba
+5,102,10.00,débito,2025-08-01,Curitiba
+6,103,4000.00,transferência,2025-08-01,Recife
+7,103,50.00,débito,2025-08-01,Recife
+8,104,3500.00,transferência,2025-08-02,São Paulo
+9,104,45.00,débito,2025-08-02,Salvador
+10,104,3500.00,transferência,2025-08-02,São Paulo
+11,104,45.00,débito,2025-08-02,Salvador

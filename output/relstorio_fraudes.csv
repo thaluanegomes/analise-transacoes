@@ -1,0 +1,10 @@
+d,cliente_id,valor,tipo_transacao,data,localizacao
+2,101,5000.0,transferência,2025-08-01,Manaus
+4,102,9500.0,transferência,2025-08-01,Curitiba
+6,103,4000.0,transferência,2025-08-01,Recife
+8,104,3500.0,transferência,2025-08-02,São Paulo
+10,104,3500.0,transferência,2025-08-02,São Paulo
+1,101,250.0,débito,2025-08-01,São Paulo
+3,101,20.0,débito,2025-08-01,São Paulo
+9,104,45.0,débito,2025-08-02,Salvador
+11,104,45.0,débito,2025-08-02,Salvador
