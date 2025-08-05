@@ -1,4 +1,4 @@
-# 🕵️ Analisador de Transações Suspeitas
+# Analisador de Transações Suspeitas
 
 Este projeto foi feito em Python com o objetivo de simular a análise de transações financeiras e detectar possíveis comportamentos suspeitos, com base em regras simples.
 
